@@ -1,10 +1,6 @@
 # AID-DAC21
 The source code for generating edge points proposed in publication titled as "AID: Attesting the Integrity of DNNs"
-
-
-
-<font size="6"> AID: Attesting the Integrity of DNNs <font/>
-    
+  
 <font size="5"> About Model Integrity Attacks <font/>
 
 Due to their important role in many decision-making tasks, DNNs are a hot target for a large array of integrity breaches. Integrity attacks are the class of malicious attempts to modify model parameters to achieve a certain adversarial objective. A prevalent example of integrity attacks are backdoor attacks in which the adversary causes targeted misclassifications for input samples that contain an attacker chosen trigger.

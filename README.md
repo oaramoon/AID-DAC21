@@ -1,5 +1,5 @@
 # AID-DAC21
-The source code for generating edge points proposed in publication titled as "AID: Attesting the Integrity of DNNs"
+Codes for reproducing the DAC-21 paper "AID: Attesting the Integrity of DNNs"
   
 <font size="5"> About Model Integrity Attacks <font/>
 
